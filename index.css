@@ -1,0 +1,12 @@
+.container{
+    height: 100vh;
+    overflow: scroll;
+}
+
+.form-div{
+    margin-top: 10px;
+}
+
+#table-div{
+    display: none;
+}
